@@ -14,8 +14,8 @@ advertising, business marketing and prepress.
  - Social Networks Marketing
  - Prepress
 
-▶️ 🌱 I’m currently learning ...<br>
-Social Networks Marketing
+▶️ 🌱 I’m currently focused on<br>
+WordPress and Social Networks Marketing
 
 ▶️ 💼 PORTFOLIO ...<br>
 
