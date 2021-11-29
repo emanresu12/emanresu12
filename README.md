@@ -39,7 +39,7 @@ https://belfitshop.rs/
 3. SKEWED website example ( HTML, CSS, Js ). Skewed is a slightly wonky landing page template 🎨, UI/UX - parallax 🧑🏼‍💻<br> 
 🖥 --> https://emanresu12.github.io/Skewed/
 4. Bitcoin website example ( HTML, CSS, Js ). Theme related to cryptocurrency 💰, UI/UX 🧑🏼‍💻<br>
-🖥 --> https://emanresu12.github.io/Bitcoin/
+🖥 --> https://emanresu12.github.io/Bitcoin/ <br>
 5.Strict website example ( HTML, CSS, Js ). Theme related to Design 🎨, UI/UX 🧑🏼‍💻<br>
 🖥 --> https://emanresu12.github.io/Strict/
 6. Fashionable website example ( HTML, CSS, Js ). Theme related to fashion 💅 💇‍♀️ 👗 👔 👠 👞, photography 📸<br> 
