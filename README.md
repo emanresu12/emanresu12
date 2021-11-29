@@ -40,7 +40,7 @@ https://belfitshop.rs/
 🖥 --> https://emanresu12.github.io/Skewed/
 4. Bitcoin website example ( HTML, CSS, Js ). Theme related to cryptocurrency 💰, UI/UX 🧑🏼‍💻<br>
 🖥 --> https://emanresu12.github.io/Bitcoin/ <br>
-5.Strict website example ( HTML, CSS, Js ). Theme related to Design 🎨, UI/UX 🧑🏼‍💻<br>
+5. Strict website example ( HTML, CSS, Js ). Theme related to Design 🎨, UI/UX 🧑🏼‍💻<br>
 🖥 --> https://emanresu12.github.io/Strict/
 6. Fashionable website example ( HTML, CSS, Js ). Theme related to fashion 💅 💇‍♀️ 👗 👔 👠 👞, photography 📸<br> 
  One of my first websites At that time my knowledge about coding was very low but it was a big thing for me when i finshed it.
