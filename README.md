@@ -48,7 +48,6 @@ https://belfitshop.rs/
 ▶️ 📫 How to reach me 📲 ...<br>
 - 📧 - dvocka@gmail.com <br>
 - in - https://www.linkedin.com/in/dragan-vo%C4%87ki%C4%87-4bab7b1b6/
-- Upwork - https://www.upwork.com/freelancers/~01f27cdf0f250df8fa?viewMode=1
 - 📱 - +381695204858 - Dragan 
 
 <!---
