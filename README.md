@@ -24,10 +24,12 @@ WordPress and Social Networks Marketing
 ▶️ 💼 References ...
 
 1. Webshop ( Shopify ) --> 🖥
+https://www.senseofpiece.com/
+2. Webshop ( Shopify ) --> 🖥
 http://www.newyorkmapcompany.com/
-2. Electrician website ( WordPress ) --> 🖥
+3. Electrician website ( WordPress ) --> 🖥
 https://elektrozeka.rs/ 
-3. Fitness Supplement website ( WordPress ) --> 🖥
+4. Fitness Supplement website ( WordPress ) --> 🖥
 https://belfitshop.rs/
 
 ▶️ 💼 A few of my first websites ...
