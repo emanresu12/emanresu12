@@ -15,7 +15,7 @@ advertising, business marketing and prepress.
  - Prepress
 
 ▶️ 🌱 I’m currently focused on<br>
-WordPress and Social Networks Marketing
+WordPress, data analysis and Social Networks Marketing
 
 ▶️ 💼 PORTFOLIO ...<br>
 
